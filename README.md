@@ -44,7 +44,7 @@ Specializing in **AI Agent Integration**, Backend Microservices, and Production 
 
 | Year | Course / Focus | Repository |
 | :--- | :--- | :---: |
-| Y1 | Foundation in Physical Science (CGPA 4.0) | - |
+| Ongoing | Saas SDG 4 Quality Education Enhanced AI powered APP (private) | Private Repo |
 | Ongoing | ARC-AGI-2: Advanced Reasoning & Program Synthesis | Private Repo |
 
 ---
